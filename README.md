@@ -1,8 +1,6 @@
 # Youtube
 Trendy tags
 
-
-
 The model was built to find importance of features involved in higher numbers of views from a Youtube prenumerant based on numeric or categoric data.
 
 Prep and clean
