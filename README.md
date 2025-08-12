@@ -2,8 +2,8 @@
 Trendy tags
 
 
-Youtube
-The aim is to identify what drives higher impact and provide insights into the prediction logic. The model was built to find importance of features involved in higher numbers of views from a Youtube prenumerant based on numeric or categoric data.
+
+The model was built to find importance of features involved in higher numbers of views from a Youtube prenumerant based on numeric or categoric data.
 
 Prep and clean
 Data read in chunks. Outliers removed. The model must not learn extremes instead of majority of data. Missing values handled by mean imputation. To save rows and get better generalization.
